@@ -1,0 +1,15 @@
+/home/rahmn/RiderProjects/ParkingApplication/ParkingApplication/bin/Debug/net6.0/ParkingApplication
+/home/rahmn/RiderProjects/ParkingApplication/ParkingApplication/bin/Debug/net6.0/ParkingApplication.deps.json
+/home/rahmn/RiderProjects/ParkingApplication/ParkingApplication/bin/Debug/net6.0/ParkingApplication.runtimeconfig.json
+/home/rahmn/RiderProjects/ParkingApplication/ParkingApplication/bin/Debug/net6.0/ParkingApplication.dll
+/home/rahmn/RiderProjects/ParkingApplication/ParkingApplication/bin/Debug/net6.0/ref/ParkingApplication.dll
+/home/rahmn/RiderProjects/ParkingApplication/ParkingApplication/bin/Debug/net6.0/ParkingApplication.pdb
+/home/rahmn/RiderProjects/ParkingApplication/ParkingApplication/obj/Debug/net6.0/ParkingApplication.csproj.AssemblyReference.cache
+/home/rahmn/RiderProjects/ParkingApplication/ParkingApplication/obj/Debug/net6.0/ParkingApplication.GeneratedMSBuildEditorConfig.editorconfig
+/home/rahmn/RiderProjects/ParkingApplication/ParkingApplication/obj/Debug/net6.0/ParkingApplication.AssemblyInfoInputs.cache
+/home/rahmn/RiderProjects/ParkingApplication/ParkingApplication/obj/Debug/net6.0/ParkingApplication.AssemblyInfo.cs
+/home/rahmn/RiderProjects/ParkingApplication/ParkingApplication/obj/Debug/net6.0/ParkingApplication.csproj.CoreCompileInputs.cache
+/home/rahmn/RiderProjects/ParkingApplication/ParkingApplication/obj/Debug/net6.0/ParkingApplication.dll
+/home/rahmn/RiderProjects/ParkingApplication/ParkingApplication/obj/Debug/net6.0/ref/ParkingApplication.dll
+/home/rahmn/RiderProjects/ParkingApplication/ParkingApplication/obj/Debug/net6.0/ParkingApplication.pdb
+/home/rahmn/RiderProjects/ParkingApplication/ParkingApplication/obj/Debug/net6.0/ParkingApplication.genruntimeconfig.cache
